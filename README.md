@@ -88,20 +88,8 @@ NextBite:
 - **Low-Latency Inference**
   - Model is preloaded to avoid repeated initialization
 
----
 
-## 🌐 Live Demo
 
-👉 https://nextbite-app-we.streamlit.app/
-
----
-
-## 🔗 Repository
-
-GitHub:  
-👉 https://github.com/chay2405/NextBite-App.git
-
----
 
 ## 📌 Future Enhancements
 
